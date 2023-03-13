@@ -1,0 +1,6 @@
+whitelistEnabled: true
+whitelistExpires: -1
+messages:
+  prefix: '§c§lSERVIDOR'
+  broadcast:
+    - 'teste'

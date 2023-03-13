@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/core-bukkit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-bukkit/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-bungee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-bungee/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-bedwars/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-bedwars/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-engine/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lobby-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lobby-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lobby-login/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lobby-login/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lobby-principal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lobby-principal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pvp-arena/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pvp-arena/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pvp-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pvp-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

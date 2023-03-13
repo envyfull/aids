@@ -1,0 +1,6 @@
+name: dragon-login-plugin
+version: 1.0
+author: yandv
+main: br.com.dragonmc.lobby.login.LoginMain
+softdepend: [ProtocolLib]
+description: Login Bukkit Plugin [core-common, core-bukkit, core-*, lobby-core, lobby-*]

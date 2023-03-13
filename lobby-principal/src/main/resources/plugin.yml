@@ -1,0 +1,6 @@
+name: Lobby
+version: 1.0
+author: yandv
+main: br.com.dragonmc.lobby.principal.LobbyMain
+softdepend: [ProtocolLib]
+description: Lobby Bukkit Pluginnn [core-common, core-bukkit, core-*, lobby-core, lobby-*]

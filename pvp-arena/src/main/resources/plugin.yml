@@ -1,0 +1,5 @@
+name: HighPvP
+version: 1.0
+author: yandv
+main: br.com.dragonmc.pvp.arena.GameMain
+softdepend: [ProtocolLib]

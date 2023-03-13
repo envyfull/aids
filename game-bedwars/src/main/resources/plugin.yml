@@ -1,0 +1,6 @@
+name: Arcade
+version: 1.0
+author: yandv
+main: br.com.dragonmc.game.bedwars.GameMain
+softdepend: [ProtocolLib]
+description: Arcade Bukkit Plugin [core-common, core-bukkit, core-*, game-engine, game-*]

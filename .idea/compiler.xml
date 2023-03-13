@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="game-bedwars" />
+        <module name="core-bukkit" />
+        <module name="lobby-principal" />
+        <module name="lobby-core" />
+        <module name="pvp-core" />
+        <module name="core-common" />
+        <module name="lobby-login" />
+        <module name="core-bungee" />
+        <module name="game-engine" />
+        <module name="pvp-arena" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

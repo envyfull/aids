@@ -1,0 +1,5 @@
+name: BungeeCommon
+version: 1.0
+author: yandv
+main: br.com.dragonmc.core.bungee.BungeeMain
+description: Core for server management [core-common, core-*]
